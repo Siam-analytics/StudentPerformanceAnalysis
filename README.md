@@ -44,14 +44,14 @@ The purpose of this dashboard is to provide a visual and analytical understandin
 
 ## 📁 Files
 
-- (https://github.com/Siam-analytics/StudentPerformanceAnalysis/blob/main/student_habits_performance.csv)
+- https://github.com/Siam-analytics/StudentPerformanceAnalysis/blob/main/student_habits_performance.csv
 
 ---
 
 ## 📌 How to Use
 
 1. Clone this repository.
-2. Open the `.twbx` file in Tableau Desktop (if available).
+2. Open the `.twbx` file in Tableau Desktop 
 3. Interact with the dashboard using dropdowns and filters to explore different aspects of student performance.
 
 ---
