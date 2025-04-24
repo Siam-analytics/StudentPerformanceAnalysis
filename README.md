@@ -45,6 +45,7 @@ The purpose of this dashboard is to provide a visual and analytical understandin
 ## 📁 Files
 
 - https://github.com/Siam-analytics/StudentPerformanceAnalysis/blob/main/student_habits_performance.csv
+- https://github.com/Siam-analytics/StudentPerformanceAnalysis/blob/main/Student_Analysis.twbx
 
 ---
 
