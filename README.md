@@ -44,8 +44,7 @@ The purpose of this dashboard is to provide a visual and analytical understandin
 
 ## 📁 Files
 
-- `e2171465-e776-4971-a793-9f3dce9a87ff.png` - Dashboard snapshot (used in preview)
-- Tableau workbook (to be uploaded separately if you choose)
+- (https://github.com/Siam-analytics/StudentPerformanceAnalysis/blob/main/student_habits_performance.csv)
 
 ---
 
