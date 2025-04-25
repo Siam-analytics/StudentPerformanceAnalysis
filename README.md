@@ -2,7 +2,7 @@
 
 This repository contains an interactive Tableau dashboard designed to analyze student performance based on multiple lifestyle factors like study hours, sleep, diet quality, mental health, social media usage, and more.
 
-![Dashboard Preview](https://github.com/Siam-analytics/StudentPerformanceAnalysis/blob/main/Screenshot%202025-04-24%20223424.png)
+![Dashboard Preview](https://github.com/Siam-analytics/StudentPerformanceAnalysis/blob/main/Screenshot%202025-04-25%20170243.png)
 
 ---
 
